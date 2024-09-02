@@ -41,7 +41,7 @@ CloudSync is a powerful and user-friendly desktop application that seamlessly in
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/CloudSync.git
+   git clone https://github.com/Jamandalley/CloudSync.git
    ```
 2. Open the solution in Visual Studio.
 3. Restore NuGet packages.
