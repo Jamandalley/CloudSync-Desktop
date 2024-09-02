@@ -115,7 +115,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-For any queries or support, please contact the development team at cloudsync@example.com or open an issue in the GitHub repository.
+For any queries or support, please contact the development team at **jamiuabimbade@gmail.com** or open an issue in the GitHub repository.
 
 ---
 
